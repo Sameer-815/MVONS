@@ -30,7 +30,7 @@ python 2_generate_PM.py
     
     (train)
     cd segmentation
-    bash tools/dist_train.sh configs/pspnet_oeem/pspnet_wres38-d8_10k_histo.py 1 runs/onns
+    bash tools/dist_train.sh configs/pspnet_onns/pspnet_wres38-d8_10k_histo.py 1 runs/onns
     
     (inference, patch merge and evaluation)
     bash tools/dist_test.sh configs/pspnet_onns/pspnet_wres38-d8_10k_histo_test.py [path to best checkpoint] 1
