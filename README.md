@@ -17,6 +17,7 @@ Download the datasets via Google Cloud Drive ([Link)](https://drive.google.com/f
 1、Train the classification model:
 
 ```python
+cd 1.classfication
 python 1_train_stage1.py
 ```
 
