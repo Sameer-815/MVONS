@@ -30,7 +30,7 @@ python 2_generate_PM.py
 # Weakly-supervised Semantic Segmentation part
     
     (train)
-    cd segmentation
+    cd 2.segmentation
     bash tools/dist_train.sh configs/pspnet_onns/pspnet_wres38-d8_10k_histo.py 1 runs/onns
     
     (inference, patch merge and evaluation)
