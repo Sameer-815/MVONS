@@ -1,3 +1,6 @@
+# weakly supervised histopathology tissue semantic segmentation with multi-scale voting and online noise suppression
+This repository contains the official code for the paper:([Link)](https://www.sciencedirect.com/science/article/pii/S0952197625011017)
+
 # Framework
 
 ![framework](framework.png)
