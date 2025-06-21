@@ -7,7 +7,7 @@ The development of an Artificial Intelligence (AI) assisted tissue segmentation 
 
 # Overview
 
-![framework](framework.png)
+
 
 
 
