@@ -44,6 +44,9 @@ python 2_generate_PM.py
     bash tools/dist_test.sh configs/pspnet_onns/pspnet_wres38-d8_10k_histo_test.py [path to best checkpoint] 1
     python tools/merge_patches.py luad/test_patches luad/test_merged 2
     python tools/count_miou.py luad/test_merged [path to original val gt] 2
+    
+# Contact
+If you have any question, please contact us at [sameervim99@gmail.com](mailto:sameervim99@gmail.com)
 
 # Citing
 
