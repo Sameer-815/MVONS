@@ -21,7 +21,7 @@ Download the datasets via Google Cloud Drive ([Link)](https://drive.google.com/f
 
 ## Datasets
 <pre>
-ESFAN/
+main/
 ├── datasets
 │   ├── BCSS-WSSS/
 │   │   ├── train/img/
